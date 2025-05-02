@@ -6,7 +6,7 @@ SimHub のダッシュボードを利用している際に、GPU 使用率が高
 このプラグインはその現象を回避するため、SimHub プロセス全体をソフトウェア レンダリング、つまり GPU を利用せず、CPU のみで描画するモードに切り替えます。
 
 ## 使い方
-+ Relase ページから DLL を取得
++ Release ページから DLL を取得
 + SimHub に DLL をインストール
 + 「Software Rendering」のトグルを ON にする
 
